@@ -1,0 +1,18 @@
+/*create table Hospital
+(
+ID int primary key identity,
+Nombre varchar(50),
+Edad int, 
+Ciudad varchar(50),
+Fecha_Consulta date not null,
+Sintomas varchar(255), 
+Diagnóstico varchar(255)
+);*/
+
+/*select *from Hospital; */
+
+/*insert into Hospital values ('Rachel Escobar',18,'Tela','2021-02-08','Dolores de Estómago','Infecciónes estomacales'),
+('Argianni Antunez',21,'Tela','2021-02-14','Alegias','Rinitis Alergica'),
+('Maria Cruz',37,'Tela','2021-01-08','Dolor de Garganta','Infecciónes de garganta'),
+('Teresa Padilla',12,'Tela','2021-01-18','Ardor en la piel','Quemaduras de Grado 3'),
+('Ester Pineda',24,'Tela','2021-02-17','Irritación en las encias','Infecciones en la garganta');*/
